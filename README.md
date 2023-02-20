@@ -1,2 +1,3 @@
 # Concurrencia-y-Paralelismo-Tema-2
-Secci
+Sección crítica y exclusión mútua
+
